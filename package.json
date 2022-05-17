@@ -47,5 +47,8 @@
     "jest": "^25.1.0",
     "prettier": "^1.19.1",
     "rewire": "^5.0.0"
+  },
+  "dependencies": {
+    "eslint-plugin-jest": "^26.2.2"
   }
 }

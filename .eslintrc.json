@@ -1,5 +1,11 @@
 {
   "extends": "standard",
+  "env": {
+    "jest/globals": true
+  },
+  "plugins": [
+    "jest"
+  ],
   "globals": {
     "test": true,
     "expect": true
