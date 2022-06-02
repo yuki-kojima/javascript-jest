@@ -3,7 +3,7 @@
 
 module.exports = {
   testEnvironment: "node",
-  testRegex: ".*_test\\.mjs$",
+  testRegex: ".*_test2\\.mjs$",
   transform: {
     ".*\\.mjs$": "babel-jest"
   },
